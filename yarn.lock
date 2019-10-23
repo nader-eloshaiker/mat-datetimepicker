@@ -126,10 +126,10 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/cdk@~7.1.0":
-  version "7.1.1"
-  resolved "https://registry.yarnpkg.com/@angular/cdk/-/cdk-7.1.1.tgz#6916b2303af5e0a56a9b64ff4d54642cf191c54f"
-  integrity sha512-woW9lWDBKRuxZipMzWofrAY7YpuZd4vf/J1YPjmAqV7U94MaDFyizRLyFolbTZVYo8ggh9U3SQAWRrEBvJNsjg==
+"@angular/cdk@~8.2.3":
+  version "8.2.3"
+  resolved "https://transurbantech.jfrog.io/transurbantech/api/npm/npm/@angular/cdk/-/cdk-8.2.3.tgz#16b96ffa935cbf5a646757ecaf2b19c434678f72"
+  integrity sha1-Frlv+pNcv1pkZ1fsrysZxDRnj3I=
   dependencies:
     tslib "^1.7.1"
   optionalDependencies:
@@ -210,17 +210,17 @@
   resolved "https://transurbantech.jfrog.io/transurbantech/api/npm/npm/@angular/language-service/-/language-service-8.2.11.tgz#d01e11d1661cb36a01663ea5c50ef790c6021724"
   integrity sha1-0B4R0WYcs2oBZj6lxQ73kMYCFyQ=
 
-"@angular/material-moment-adapter@~7.1.0":
-  version "7.1.1"
-  resolved "https://registry.yarnpkg.com/@angular/material-moment-adapter/-/material-moment-adapter-7.1.1.tgz#7d60d5c5e26d02d60a313bc46622fad07f6ac02d"
-  integrity sha512-Ql0yFCuaWnRSSUqkCbeD8kRJ3oPVvl8GgsV20AvOKEpZ2eKvR+kapNbUqW8PTZb/Ovp5xDIaBaFjx5R89U4uxg==
+"@angular/material-moment-adapter@~8.2.3":
+  version "8.2.3"
+  resolved "https://transurbantech.jfrog.io/transurbantech/api/npm/npm/@angular/material-moment-adapter/-/material-moment-adapter-8.2.3.tgz#099fce64a3ffb3cfe30141700b195f5058cb360d"
+  integrity sha1-CZ/OZKP/s8/jAUFwCxlfUFjLNg0=
   dependencies:
     tslib "^1.7.1"
 
-"@angular/material@~7.1.0":
-  version "7.1.1"
-  resolved "https://registry.yarnpkg.com/@angular/material/-/material-7.1.1.tgz#147b7565262e04d504c8dab7317632967a3db02a"
-  integrity sha512-wjYAWsdWpb8/BgoIfoUomnycoljU00avJ3hRIgPNnEpZhB7zqiBA8tCitzDS4NK8dKBJjM9WRAOj6yl6x3+9wA==
+"@angular/material@~8.2.3":
+  version "8.2.3"
+  resolved "https://transurbantech.jfrog.io/transurbantech/api/npm/npm/@angular/material/-/material-8.2.3.tgz#16543e4e06a3fde2651a25cfe126e88e714ae105"
+  integrity sha1-FlQ+Tgaj/eJlGiXP4SbojnFK4QU=
   dependencies:
     tslib "^1.7.1"
 
