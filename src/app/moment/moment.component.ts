@@ -10,8 +10,8 @@ import {
   DatetimeAdapter,
   MAT_DATETIME_FORMATS,
   MatDatetimepickerFilterType
-} from "@mat-datetimepicker/core";
-import { MomentDatetimeAdapter } from "@mat-datetimepicker/moment";
+} from "@nader-eloshaiker/mat-datetimepicker";
+import { MomentDatetimeAdapter } from "@nader-eloshaiker/mat-datetimepicker-moment";
 import {
   Moment,
   utc

@@ -11,7 +11,7 @@ import {
   MAT_NATIVE_DATETIME_FORMATS,
   MatDatetimepickerFilterType,
   NativeDatetimeAdapter
-} from "@mat-datetimepicker/core";
+} from "@nader-eloshaiker/mat-datetimepicker";
 
 @Component({
   selector: "app-native-datetime",

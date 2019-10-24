@@ -4,7 +4,7 @@ import {
   Optional
 } from "@angular/core";
 import { DateAdapter, MAT_DATE_LOCALE } from "@angular/material/core";
-import { DatetimeAdapter } from "@mat-datetimepicker/core";
+import { DatetimeAdapter } from "@nader-eloshaiker/mat-datetimepicker";
 
 import { Moment } from "moment";
 import * as moment_ from "moment";

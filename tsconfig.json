@@ -20,16 +20,16 @@
       "dom"
     ],
     "paths": {
-      "@mat-datetimepicker/core": [
+      "@nader-eloshaiker/mat-datetimepicker": [
         "dist/core"
       ],
-      "@mat-datetimepicker/core/*": [
+      "@nader-eloshaiker/mat-datetimepicker/*": [
         "dist/core/*"
       ],
-      "@mat-datetimepicker/moment": [
+      "@nader-eloshaiker/mat-datetimepicker-moment": [
         "dist/moment"
       ],
-      "@mat-datetimepicker/moment/*": [
+      "@nader-eloshaiker/mat-datetimepicker-moment/*": [
         "dist/moment/*"
       ]
     }

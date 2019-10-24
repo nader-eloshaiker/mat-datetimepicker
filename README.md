@@ -1,30 +1,27 @@
-# Material Datetimepicker for @angular/material 7.1.x
+# Material Datetimepicker for @angular/material 8.2.x
 
-This is the main branch for @angular/material 7.1.x
-
-You can find the Angular 5 version on the `1.x` branch. \
-You can find the Angular 6 version on the `2.x` branch.
 
 ## Description
 
 The datetimepicker is taken from [Promact/md2](https://github.com/Promact/md2) and modified to use @angular/material as base and added theming support.
+Angular v8 migration is based upon v7 from [kuhnroyal](https://github.com/kuhnroyal/mat-datetimepicker) 
 
 Like the @angular/material datepicker it contains a native-datetime-adapter as well as a moment-datetime-adapter.
 
-[![Latest Stable Version](https://img.shields.io/npm/v/@mat-datetimepicker/core.svg)](https://www.npmjs.com/package/@mat-datetimepicker/core)
-[![License](https://img.shields.io/npm/l/@mat-datetimepicker/core.svg)](https://www.npmjs.com/package/@mat-datetimepicker/core)
-[![NPM Downloads](https://img.shields.io/npm/dm/@mat-datetimepicker/core.svg)](https://www.npmjs.com/package/@mat-datetimepicker/core)
+[![Latest Stable Version](https://img.shields.io/npm/v/@nader-eloshaiker/mat-datetimepicker.svg)](https://www.npmjs.com/package/@nader-eloshaiker/mat-datetimepicker)
+[![License](https://img.shields.io/npm/l/@nader-eloshaiker/mat-datetimepicker.svg)](https://www.npmjs.com/package/@nader-eloshaiker/mat-datetimepicker)
+[![NPM Downloads](https://img.shields.io/npm/dm/@nader-eloshaiker/mat-datetimepicker.svg)](https://www.npmjs.com/package/@nader-eloshaiker/mat-datetimepicker)
 
 # Usage
 ## Installation
 Install:
 ```
-yarn install @mat-datetimepicker/core
+npm install @nader-eloshaiker/mat-datetimepicker
 ```
 And for the moment adapter:
 ```
-yarn install @angular/material-moment-adapter
-yarn install @mat-datetimepicker/moment
+npm install @angular/material-moment-adapter
+npm install @nader-eloshaiker/mat-datetimepicker-moment
 ``` 
 
 ## Setup
@@ -116,7 +113,7 @@ Parsing does not work with the native adapter because the Intl.DateTimeFormat AP
 
 ## Theming
 ```
-@import '~@mat-datetimepicker/core/datetimepicker/datetimepicker-theme.scss';
+@import '~@nader-eloshaiker/mat-datetimepicker/datetimepicker/datetimepicker-theme.scss';
 
 // Using the $theme variable from the pre-built theme you can call the theming function
 @include mat-datetimepicker-theme($theme);
@@ -126,15 +123,15 @@ Parsing does not work with the native adapter because the Intl.DateTimeFormat AP
 # Development
 ## Performing a local build
 ```
-yarn install
-yarn build
+npm install
+npm build
 ``` 
 
 ## Running the sample app locally
 ```
-yarn install
-yarn build
-yarn start
+npm install
+npm run build
+npm run start
 ``` 
 
 ## Using the local build in some project
@@ -144,12 +141,12 @@ cd my-project
 Add the dependencies to your `package.json`:
 ```
 "dependencies": {
-    "@mat-datetimepicker/core": "3.0.0-beta.0",
-    "@mat-datetimepicker/moment": "3.0.0-beta.0",
+    "@nader-eloshaiker/mat-datetimepicker": "4.0.0",
+    "@nader-eloshaiker/mat-datetimepicker-moment": "4.0.0",
 }
 ```
 Link the local built modules:
 ```
-yarn link "@mat-datetimepicker/core"
-yarn link "@mat-datetimepicker/moment"
+npm link "@nader-eloshaiker/mat-datetimepicker"
+npm link "@nader-eloshaiker/mat-datetimepicker-moment"
 ``` 

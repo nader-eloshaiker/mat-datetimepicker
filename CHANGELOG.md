@@ -54,7 +54,7 @@ allow filtering on hours/minutes with "dateFilter", filter functions now take a 
 * fix: [#6](https://github.com/kuhnroyal/mat-datetimepicker/issues/6) min/max values in clock view not respected
 
 # 1.0.1 (07/12/2017)
-* fix: peerDependency version @mat-datetimepicker/core
+* fix: peerDependency version @nader-eloshaiker/mat-datetimepicker
 
 # 1.0.0 (07/12/2017)
 * chore: update to @angular/material 5.0.0

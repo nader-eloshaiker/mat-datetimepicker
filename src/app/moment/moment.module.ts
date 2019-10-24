@@ -5,7 +5,7 @@ import { MatFormFieldModule } from "@angular/material/form-field";
 import { MatInputModule } from "@angular/material/input";
 import { BrowserModule } from "@angular/platform-browser";
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
-import { MatDatetimepickerModule } from "@mat-datetimepicker/core";
+import { MatDatetimepickerModule } from "@nader-eloshaiker/mat-datetimepicker";
 import { MomentDatetimeComponent } from "./moment.component";
 
 @NgModule({
