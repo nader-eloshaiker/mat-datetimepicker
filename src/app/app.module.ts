@@ -1,5 +1,5 @@
 import { registerLocaleData } from "@angular/common";
-import localeDe from "@angular/common/locales/de";
+import localeEn from "@angular/common/locales/en";
 import {
   LOCALE_ID,
   NgModule
@@ -13,13 +13,13 @@ import { AppComponent } from "./app.component";
 import { AppMomentModule } from "./moment/moment.module";
 import { AppNativeModule } from "./native/native.module";
 
-registerLocaleData(localeDe);
+registerLocaleData(localeEn);
 
 @NgModule({
   providers: [
     {
       provide: LOCALE_ID,
-      useValue: "de-DE"
+      useValue: "au-EN"
     },
     {
       provide: MAT_DATE_LOCALE,
