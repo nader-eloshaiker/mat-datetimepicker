@@ -16,8 +16,8 @@ $theme: mat-light-theme($app-primary, $app-accent, $app-warn);
 @include angular-material-theme($theme);
 
 // Use this import in a real project instead
-//@import '~@mat-datetimepicker/core/datetimepicker/datetimepicker-theme.scss';
-@import 'dist/core/datetimepicker/datetimepicker-theme.scss';
+//@import '~@nader-eloshaiker/mat-datetimepicker/datetimepicker/datetimepicker-theme.scss';
+@import './projects/core/src/datetimepicker/datetimepicker-theme.scss';
 
 // Using the $theme variable from the pre-built theme you can call the theming function
 @include mat-datetimepicker-theme($theme);

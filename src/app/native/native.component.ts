@@ -4,17 +4,14 @@ import {
   FormGroup,
   Validators
 } from "@angular/forms";
-import {
-  DateAdapter,
-  NativeDateAdapter
-} from "@angular/material";
+import { DateAdapter, NativeDateAdapter } from "@angular/material/core";
 import {
   DatetimeAdapter,
   MAT_DATETIME_FORMATS,
   MAT_NATIVE_DATETIME_FORMATS,
   MatDatetimepickerFilterType,
   NativeDatetimeAdapter
-} from "@mat-datetimepicker/core";
+} from "@nader-eloshaiker/mat-datetimepicker";
 
 @Component({
   selector: "app-native-datetime",
