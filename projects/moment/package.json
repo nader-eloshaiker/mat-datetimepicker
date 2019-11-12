@@ -4,6 +4,13 @@
   "repository": "https://github.com/nader-eloshaiker/mat-datetimepicker.git",
   "author": "Nader Eloshaiker",
   "license": "MIT",
+  "keywords": [
+    "Angular8",
+    "Angular",
+    "DateTime",
+    "Picker",
+    "Moment"
+  ],
   "peerDependencies": {
     "@angular/cdk": "~8.2.3",
     "@angular/common": "~8.2.11",
