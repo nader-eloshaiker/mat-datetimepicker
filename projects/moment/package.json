@@ -15,14 +15,14 @@
     "Moment"
   ],
   "peerDependencies": {
-    "@angular/cdk": "~8.2.3",
-    "@angular/common": "~8.2.11",
-    "@angular/core": "~8.2.11",
-    "@angular/material": "~8.2.3",
-    "@angular/material-moment-adapter": "~8.2.3",
-    "@nader-eloshaiker/mat-datetimepicker": "^4.0.6"
+    "@angular/cdk": "~9.1.2",
+    "@angular/common": "~9.0.5",
+    "@angular/core": "~9.0.5",
+    "@angular/material": "~9.1.2",
+    "@angular/material-moment-adapter": "~9.1.2",
+    "@nader-eloshaiker/mat-datetimepicker": "^5.0.0"
   },
   "dependencies": {
-    "moment": "2.23.0"
+    "moment": "2.24.0"
   }
 }

@@ -15,9 +15,9 @@
     "Moment"
   ],
   "peerDependencies": {
-    "@angular/cdk": "~8.2.3",
-    "@angular/common": "~8.2.11",
-    "@angular/core": "~8.2.11",
-    "@angular/material": "~8.2.3"
+    "@angular/cdk": "~9.1.2",
+    "@angular/common": "~9.0.5",
+    "@angular/core": "~9.0.5",
+    "@angular/material": "~9.1.2"
   }
 }
