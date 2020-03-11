@@ -3,8 +3,8 @@
 
 ## Versions
 
-download v4.x.x for Angular 8
-download v5.x.x for Angular 9
+* download v4.x.x for Angular 8
+* download v5.x.x for Angular 9
 
 ## Description
 
