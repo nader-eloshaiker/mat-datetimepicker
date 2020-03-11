@@ -1,20 +1,23 @@
 {
   "name": "@nader-eloshaiker/mat-datetimepicker",
-  "version": "4.0.7",
+  "version": "5.0.0",
   "repository": "https://github.com/nader-eloshaiker/mat-datetimepicker.git",
   "author": "Nader Eloshaiker",
   "license": "MIT",
   "keywords": [
+    "Angular9",
     "Angular8",
     "Angular",
+    "Date",
+    "Time",
     "DateTime",
     "Picker",
     "Moment"
   ],
   "peerDependencies": {
-    "@angular/cdk": "~8.2.3",
-    "@angular/common": "~8.2.11",
-    "@angular/core": "~8.2.11",
-    "@angular/material": "~8.2.3"
+    "@angular/cdk": "~9.1.2",
+    "@angular/common": "~9.0.5",
+    "@angular/core": "~9.0.5",
+    "@angular/material": "~9.1.2"
   }
 }
