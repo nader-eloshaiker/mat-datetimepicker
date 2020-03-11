@@ -1,5 +1,10 @@
-# Material Datetimepicker for @angular/material 8.2.x
+# Material Datetimepicker for @angular/material 8 and 9
 
+
+## Versions
+
+download v4.x.x for Angular 8
+download v5.x.x for Angular 9
 
 ## Description
 
