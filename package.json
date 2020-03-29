@@ -1,6 +1,6 @@
 {
   "name": "@nader-eloshaiker/mat-datetimepicker",
-  "version": "5.0.1",
+  "version": "5.0.3",
   "license": "MIT",
   "private": false,
   "description": "Angular Material DateTime Picker",
