@@ -1,6 +1,7 @@
 {
   "name": "@nader-eloshaiker/mat-datetimepicker-moment",
-  "version": "5.0.1",
+  "version": "5.1.0",
+  "homepage": "https://nader-eloshaiker.github.io/mat-datetimepicker/",
   "repository": "https://github.com/nader-eloshaiker/mat-datetimepicker.git",
   "author": "Nader Eloshaiker",
   "license": "MIT",
@@ -15,14 +16,14 @@
     "Moment"
   ],
   "peerDependencies": {
-    "@angular/cdk": "~9.1.2",
-    "@angular/common": "~9.0.5",
-    "@angular/core": "~9.0.5",
-    "@angular/material": "~9.1.2",
-    "@angular/material-moment-adapter": "~9.1.2",
+    "@angular/cdk": "^9.0.0",
+    "@angular/common": "^9.0.0",
+    "@angular/core": "^9.0.0",
+    "@angular/material": "^9.0.0",
+    "@angular/material-moment-adapter": "^9.0.0",
     "@nader-eloshaiker/mat-datetimepicker": "^5.0.0"
   },
   "dependencies": {
-    "moment": "2.24.0"
+    "moment": "^2.24.0"
   }
 }
