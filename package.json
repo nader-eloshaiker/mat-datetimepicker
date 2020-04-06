@@ -34,8 +34,8 @@
     "start:prod": "ng serve --prod",
     "build": "npm run build:lib && ng build --prod",
     "build:lib": "npm run build:lib/core && npm run build:lib/moment",
-    "build:lib/core": "ng build core --prod && copy-files-from-to --config projects/core/copy-files.json",
-    "build:lib/moment": "ng build moment --prod && copy-files-from-to --config projects/moment/copy-files.json",
+    "build:lib/core": "ng build core && copy-files-from-to --config projects/core/copy-files.json",
+    "build:lib/moment": "ng build moment && copy-files-from-to --config projects/moment/copy-files.json",
     "test": "ng test --watch=false",
     "lint": "ng lint",
     "e2e": "ng e2e"
