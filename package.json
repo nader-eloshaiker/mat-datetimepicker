@@ -36,6 +36,7 @@
     "build:lib": "npm run build:lib/core && npm run build:lib/moment",
     "build:lib/core": "ng build core && copy-files-from-to --config projects/core/copy-files.json",
     "build:lib/moment": "ng build moment && copy-files-from-to --config projects/moment/copy-files.json",
+    "build:github": "npm run build:lib && ng build --prod --base-href=https://nader-eloshaiker.github.io/mat-datetimepicker/",
     "test": "ng test --watch=false",
     "lint": "ng lint",
     "e2e": "ng e2e"
