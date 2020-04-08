@@ -2,7 +2,7 @@
   "copyFiles": [
     {
       "from": "src/datetimepicker/datetimepicker-theme.scss",
-      "to": "../../docs/core/datetimepicker/datetimepicker-theme.scss"
+      "to": "../../dist/core/datetimepicker/datetimepicker-theme.scss"
     },
     {
       "from": "../../README.md",
