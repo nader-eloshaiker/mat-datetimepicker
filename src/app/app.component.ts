@@ -10,5 +10,5 @@ import {
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class AppComponent {
-  title = "app";
+  title = "@nader-eloshaiker/mat-datetimepicker";
 }

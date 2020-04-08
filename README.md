@@ -2,6 +2,7 @@
 
 ## Demo
 You can view this component in action on [github pages](https://nader-eloshaiker.github.io/mat-datetimepicker/)
+> Note: link has been fixed for the demo
 
 ## Versions
 
