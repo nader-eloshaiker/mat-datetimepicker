@@ -71,7 +71,7 @@
     "codelyzer": "^5.1.2",
     "copy-files-from-to": "1.4.0",
     "jasmine-core": "~3.5.0",
-    "jasmine-reporters": "^2.3.2",
+    "jasmine-reporters": "^2.5.0",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "^4.3.0",
     "karma-chrome-launcher": "~2.2.0",
